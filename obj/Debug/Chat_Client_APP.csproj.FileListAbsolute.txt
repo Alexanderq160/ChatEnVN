@@ -1,0 +1,28 @@
+c:\users\angel\documents\visual studio 2012\Projects\Chat_Client_APP\Chat_Client_APP\bin\Debug\Chat_Client_APP.exe.config
+c:\users\angel\documents\visual studio 2012\Projects\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.Form1.resources
+c:\users\angel\documents\visual studio 2012\Projects\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.Properties.Resources.resources
+c:\users\angel\documents\visual studio 2012\Projects\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.csproj.GenerateResource.Cache
+c:\users\angel\documents\visual studio 2012\Projects\Chat_Client_APP\Chat_Client_APP\bin\Debug\Chat_Client_APP.exe
+c:\users\angel\documents\visual studio 2012\Projects\Chat_Client_APP\Chat_Client_APP\bin\Debug\Chat_Client_APP.pdb
+c:\users\angel\documents\visual studio 2012\Projects\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.exe
+c:\users\angel\documents\visual studio 2012\Projects\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.pdb
+D:\usb\pasar\proyectos\Chat_Client_APP\Chat_Client_APP\bin\Debug\Chat_Client_APP.exe.config
+D:\usb\pasar\proyectos\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.exe
+D:\usb\pasar\proyectos\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.pdb
+D:\usb\pasar\proyectos\Chat_Client_APP\Chat_Client_APP\bin\Debug\Chat_Client_APP.exe
+D:\usb\pasar\proyectos\Chat_Client_APP\Chat_Client_APP\bin\Debug\Chat_Client_APP.pdb
+D:\usb\pasar\proyectos\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.csprojResolveAssemblyReference.cache
+D:\usb\pasar\proyectos\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.Form1.resources
+D:\usb\pasar\proyectos\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.Properties.Resources.resources
+D:\usb\pasar\proyectos\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.csproj.GenerateResource.Cache
+I:\proyectos\Chat_Client_APP\Chat_Client_APP\bin\Debug\Chat_Client_APP.exe.config
+I:\proyectos\Chat_Client_APP\Chat_Client_APP\bin\Debug\Chat_Client_APP.exe
+I:\proyectos\Chat_Client_APP\Chat_Client_APP\bin\Debug\Chat_Client_APP.pdb
+I:\proyectos\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.Form1.resources
+I:\proyectos\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.Properties.Resources.resources
+I:\proyectos\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.csproj.GenerateResource.Cache
+I:\proyectos\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.exe
+I:\proyectos\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.pdb
+C:\Users\Alexander\Desktop\visualNet\Chat_Client_APP\Chat_Client_APP\bin\Debug\Chat_Client_APP.exe.config
+C:\Users\Alexander\Desktop\visualNet\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.exe
+C:\Users\Alexander\Desktop\visualNet\Chat_Client_APP\Chat_Client_APP\obj\Debug\Chat_Client_APP.pdb
